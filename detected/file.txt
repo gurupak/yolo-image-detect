@@ -1,0 +1,1 @@
+Detected objects will be saved after cropped in this folder
